@@ -120,6 +120,14 @@
             "decimals":18,
             "name":"HuobiToken",
             "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+        },
+        {
+            "symbol":"GTC",
+            "address":"TDRxz8v6c9jLLXfxUcMBL52FnkxJ9c3w79",
+            "chainId":1,
+            "decimals":18,
+            "name":"HuobiToken",
+            "logoURI":"https://coin.top/production/logo/TDRxz8v6c9jLLXfxUcMBL52FnkxJ9c3w79.png"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
